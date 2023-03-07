@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login form</title>
+    
+    <style> 
+    
+    *{
+        font-family: 'Poppins', sans-serif;
+        margin:0; padding:0px;
+        box-sizing: border-box;
+        outline: none; border:none;
+        text-decoration: none;  
+       
+
+     }
+     .form-container{
+        min-height: 100vh; 
+       
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding:50px;
+        padding-bottom: 50px;
+        /* background-image: url(https://images.unsplash.com/photo-1543227013-d4bb04c3eec8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGJsYWNrJTIwYW5kJTIwYmx1ZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60); */
+        background-image: linear-gradient(#DBE2EF,#3F72AF); 
+  background-size: 1500px;
+  width: 1600px;
+  height: 300px;
+  border: 1px solid;
+  
+     }
+     
+     .form-container form{
+        padding:40px;
+        border-radius: 15px;
+        /* box-shadow: 0 5px 10px rgba(0,0,0,.1); */
+        background: black;
+        text-align: center;
+        width: 500px;
+     }
+     
+     .form-container form h3{
+        font-size: 30px;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+        color:white;
+     }
+     
+     .form-container form input,
+     .form-container form select{
+        width: 100%;
+        padding:10px 15px;
+        font-size: 17px;
+        margin:8px 0;
+        background: rgb(238, 238, 238);
+        border-radius: 5px;
+     }
+     
+     .form-container form select option{
+        background: #fff;
+     }
+     
+     .form-container form .form-btn{
+        background: #8dc4f4;
+        color:black;
+        text-transform: capitalize;
+        font-size: 20px;
+        cursor: pointer; 
+        border-color: black;
+     }
+     
+     .form-container form .form-btn:hover{
+        background: black;
+        color:#fff;
+     }
+     
+     .form-container form p{
+        margin-top: 10px;
+        font-size: 20px;
+        color:white;
+     }
+     
+     .form-container form p a{
+        color:#8dc4f4;
+     }
+    
+     .form-container form p a:hover{
+        text-decoration: underline;
+     }
+     
+     .form-container form .error-msg{
+        margin:10px 0;
+        display: block;
+        background: crimson;
+        color:#fff;
+        border-radius: 5px;
+        font-size: 20px;
+        padding:10px;
+     } 
+     </style>
+   
+</head>
+<body>
+    <div class="form-container">
+        <form action="/login1/a" method="post" target="_blank">
+            <h3>Login now</h3>
+            <input type="email" name="email" required placeholder="email">
+            <input type="password" name="password" required placeholder="password">
+            <input type="submit" name="a" value="submit" class="form-btn">
+            <p>don't have an account? <a href="/login1/register">register now</a></p>
+        </form>
+    </div>
+    <!-- <?php
+    echo "first php program";
+    ?> --> 
+    <script src="login1.js"></script>
+</body>
+</html>
