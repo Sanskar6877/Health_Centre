@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6404661cff806aaa4adeb5cd"
+  },
+  "email": "navya@gmail.com",
+  "password": "7842533194",
+  "name": "Navya Velpuru"
+},{
+  "_id": {
+    "$oid": "64046621ff806aaa4adeb5ce"
+  },
+  "email": "sanskar@gmail.com",
+  "password": "9508532340",
+  "name": "Sanksar Velpuru"
+}]

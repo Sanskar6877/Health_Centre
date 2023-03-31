@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "6406c4b27fe39fc6d604744f"
+  },
+  "name": "Dr.Sanskar Singh",
+  "qualification": "MBBS,FRCS",
+  "specialization": "Cardiologist",
+  "timings": "5:00  - 6:00 ",
+  "available": "Daily"
+},{
+  "_id": {
+    "$oid": "6406c4b77fe39fc6d6047450"
+  },
+  "name": "Dr.Velpuru Navya",
+  "qualification": "MBBS",
+  "specialization": "Opthomologist",
+  "available": "every sunday",
+  "timings": "4:00  - 5:00 "
+},{
+  "_id": {
+    "$oid": "641825cf5412d1bb56eb231f"
+  },
+  "name": "Dr.vikas",
+  "qualification": "mbbs",
+  "specialization": "dontknow",
+  "timings": "14:52 - 14:52",
+  "available": "dgfchvjbn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64259f183b3041215d1a7f45"
+  },
+  "name": "sdzfxhjbn",
+  "qualification": "dxgfhjk",
+  "specialization": "dxfgncvhbjnk",
+  "timings": "20:09 - 20:09",
+  "available": "xfcgvhbjn",
+  "__v": 0
+}]
