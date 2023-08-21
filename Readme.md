@@ -10,6 +10,8 @@
 
 5\.Vikas Maurya ([210001076)](mailto:cse210001063@iiti.ac.in)
 
+5\.Vaibhav Jaiswani ([210004051)](mailto:ce210004051@iiti.ac.in)
+
 **Description**
 
 The <a name="_int_njrdjofi"></a>Health Centre appointment system allows patients to enquire about availability of doctors based on their schedule, book and cancel appointments. The goal of this case study is to design and develop a database that stores information about various doctors and patients. Patients may book their appointment by entering the details. If there are any doctors available, they will be allotted accordingly by the admin. Following that, the admin can cancel any appointment depending upon the situation.
