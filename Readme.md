@@ -10,7 +10,7 @@
 
 5\.Vikas Maurya ([210001076)](mailto:cse210001063@iiti.ac.in)
 
-5\.Vaibhav Jaiswani ([210004051)](mailto:ce210004051@iiti.ac.in)
+6\.Vaibhav Jaiswani ([210004051)](mailto:ce210004051@iiti.ac.in)
 
 **Description**
 
