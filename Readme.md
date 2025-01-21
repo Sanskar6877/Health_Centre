@@ -4,15 +4,11 @@
 
 2\.Sanskar ([210001063)](mailto:cse210001063@iiti.ac.in)
 
-3\.Prashant ([2022CSB1202)](mailto:2022csb1202@iitrpr.ac.in)
+3\.Vishesh Garg ([210001077)](mailto:cse210001063@iiti.ac.in)
 
-4\.Vishesh Garg ([210001077)](mailto:cse210001063@iiti.ac.in)
+4\.Pranay D Kumar ([210001053)](mailto:cse210001063@iiti.ac.in)
 
-5\.Pranay D Kumar ([210001053)](mailto:cse210001063@iiti.ac.in)
-
-6\.Vikas Maurya ([210001076)](mailto:cse210001063@iiti.ac.in)
-
-7\.Vaibhav Jaiswani ([210004051)](mailto:ce210004051@iiti.ac.in)
+5\.Vikas Maurya ([210001076)](mailto:cse210001063@iiti.ac.in)
 
 **Description**
 
